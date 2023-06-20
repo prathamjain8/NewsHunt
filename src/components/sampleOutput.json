@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+      {
+        "source": {
+          "id": "cbc-news",
+          "name": "CBC News"
+        },
+        "author": "CBC News",
+        "title": "Canadian golfer flattened by security while spraying champagne in Canadian Open celebration | CBC Sports",
+        "description": "Nick Taylor's victory on Sunday marked the first time a Canadian golfer won the Canadian Open the title since 1954. That didn't seem lost on fellow Canuck Adam Hadwin who was one of the the first to rush the green in celebration, spraying champagne at Taylor …",
+        "url": "http://www.cbc.ca/sports/golf/golf-canadian-open-adam-hadwin-tackled-canadian-open-1.6873267",
+        "urlToImage": "https://i.cbc.ca/1.6873283.1686574292!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/glf-canadian-open-20230611.jpg",
+        "publishedAt": "2023-06-12T14:07:26.3772286Z",
+        "content": "Nick Taylor's victory on Sunday at the Canadian Open at Toronto's Oakdale Golf and Country Club was certainly something to celebrate.\r\nTaylor was the first Canadian to win the title since 1954, and t… [+1433 chars]"
+      },
+      {
+        "source": {
+          "id": "al-jazeera-english",
+          "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "Putin, Orban lead global tributes for Italy’s Silvio Berlusconi",
+        "description": "Italian politicians, world leaders and sports figures remember the flamboyant figure, who has died at 86.",
+        "url": "http://www.aljazeera.com/news/2023/6/12/world-reacts-to-italys-silvio-berlusconis-death",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/06/2023-06-12T085032Z_427184888_RC21PK7VO00N_RTRMADP_3_ITALY-BERLUSCONI-1686570479.jpg?resize=1920%2C1440",
+        "publishedAt": "2023-06-12T12:19:41Z",
+        "content": "Silvio Berlusconi, Italys former premier and business tycoon, has died in Milan at the age of 86.\r\nPoliticians, sports icons and world leaders are paying tribute to the flamboyant figure who transfor… [+7099 chars]"
+      },
+      {
+        "source": {
+          "id": "four-four-two",
+          "name": "FourFourTwo"
+        },
+        "author": "Mark White",
+        "title": "BT Sport: Who is replacing Jake Humphrey?",
+        "description": "BT presenter Jake Humphrey is leaving, as part of the channel's rebrand to TNT Sports",
+        "url": "https://www.fourfourtwo.com/news/bt-sport-who-is-replacing-jake-humphrey",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/pG55tTTsJodHWe2oCd9cnj-1200-80.jpg",
+        "publishedAt": "2023-06-10T19:26:19Z",
+        "content": "BT Sport presenter Jake Humphrey is set to leave the channel after 10 years of service – with the 2023 Champions League final between Inter Milan and Manchester City in Istanbul being his final match… [+1327 chars]"
+      },
+      {
+        "source": {
+          "id": "next-big-future",
+          "name": "Next Big Future"
+        },
+        "author": "Brian Wang",
+        "title": "Djokovic Could Become GOAT of all Sports GOATs | NextBigFuture.com",
+        "description": "I believe Novak Djokovic could have a crowning 3 to 6 year run that will establish him as the GOAT of all sports GOATs. I make predictions about the future at",
+        "url": "https://www.nextbigfuture.com/2023/06/djokovic-could-become-goat-of-all-sports-goats.html",
+        "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2023/06/Screen-Shot-2023-06-09-at-1.10.29-PM.jpg",
+        "publishedAt": "2023-06-09T20:33:30Z",
+        "content": "I believe Novak Djokovic could have a crowning 3 to 6 year run that will establish him as the GOAT of all sports GOATs. I make predictions about the future at Metaculus and I am right about 90% of th… [+3203 chars]"
+      },
+      {
+        "source": {
+          "id": "bleacher-report",
+          "name": "Bleacher Report"
+        },
+        "author": null,
+        "title": "☄️ Knicks Playoff Special ",
+        "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+        "url": "https://bleacherreport.com/videos/431020-knicks-start-playoff-run--hero-ball",
+        "urlToImage": "https://i.cbc.ca/1.6873283.1686574292!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/glf-canadian-open-20230611.jpg",
+        "publishedAt": "2023-04-17T21:22:15.1716203Z",
+        "content": "Knicks Start Playoff Run | Hero Ball"
+      },
+      {
+        "source": {
+          "id": "bleacher-report",
+          "name": "Bleacher Report"
+        },
+        "author": null,
+        "title": "&#x27;The Voncast&#x27; with Myles Garrett",
+        "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+        "url": "https://bleacherreport.com/videos/304730-the-voncast-with-myles-garrett",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/pG55tTTsJodHWe2oCd9cnj-1200-80.jpg",
+        "publishedAt": "2022-12-01T18:52:49.4768049Z",
+        "content": "Myles Garrett and Von Miller talk playing in the NBA, pick their dream NFL defense and more"
+      }
+    ]
+  }
